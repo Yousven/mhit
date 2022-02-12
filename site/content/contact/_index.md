@@ -1,11 +1,11 @@
 ---
-title: "Contact"
+title: "Kontakt"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Asukoht
+    text: "Tartu, Estonia"
+  - heading: Tööaeg
+    text: "Esmasmpäevast – pühapäevani: 09.00 – 18.00 Oleme suletud nädalavahetusel"
 ---
 
 We’d love to get in touch with you and hear your ideas and
