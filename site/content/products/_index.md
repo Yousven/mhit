@@ -1,13 +1,13 @@
 ---
-title: Our Coffee
+title: Teenused
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Mida me pakume
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  HMIT - teenus on peamiselt ettevõtetele, kes vajavad abi enda info- tehnoloogiliste
+  lahenduste, kas parandamiseks või üleüldse üles ehitamiseks. Peamiselt 
+  keskendume ettevõtetele, kuid vahel tegeleme ka eraisikutega. Kui Teil on mure 
+  siis võtke meiega igal juhul ühendust. Koos leiame kindlasti lahenduse.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
