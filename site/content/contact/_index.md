@@ -3,7 +3,7 @@ title: "Kontakt"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Asukoht
-    text: "Tartu, Estonia"
+    text: "Tartu, Estonia "
   - heading: Tööaeg
     text: "Esmasmpäevast – pühapäevani: 09.00 – 18.00"
 ---
