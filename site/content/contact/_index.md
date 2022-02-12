@@ -5,15 +5,14 @@ contact_entries:
   - heading: Asukoht
     text: "Tartu, Estonia"
   - heading: Tööaeg
-    text: "Esmasmpäevast – pühapäevani: 09.00 – 18.00 Oleme suletud nädalavahetusel"
+    text: "Esmasmpäevast – pühapäevani: 09.00 – 18.00"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Oleme avatud Teie küsimustele IT-valdkonnas. Vajadusel planeerime kohtumise,
+ja räägime olukorrast lähemalt.
+Teie tagasiside on meie jaoks väga oluline.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Vajadusel on võimalik täita all olev lahter ja võtta meiega kiirelt ühendust.
+Ära häbene võta julgelt ühendust.
